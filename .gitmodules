@@ -1,0 +1,4 @@
+[submodule "project"]
+	path = project
+	url = git@github.com:muHashh/CERN-Anomaly-Detection.git
+	branch = main
